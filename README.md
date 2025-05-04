@@ -1,17 +1,16 @@
-## Hi there 👋
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Simon Chege! 👋
 
 ![Banner Image](your_banner_image_url_here)
 
 ## About Me 🚀
 
-I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **[backend Developer Role]** with experience in **[python and sql]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **[new technologies or skills you're currently learning]**
-- 🔭 Working on: **[current projects or side-projects]**
-- 🌍 Languages: **[programming languages and human languages you speak]**
-- 📫 How to reach me: **[your email address or other contact information]**
-- ⚡ Fun fact: **[a fun fact about yourself]**
+- 🌱 Currently learning: **[restful apis with django]**
+- 🔭 Working on: **[e-commerce website]**
+- 🌍 Languages: **[python, sql , English and swahili]**
+- 📫 How to reach me: **[understandingroom@gmail.com]**
+- ⚡ Fun fact: **[I talk to myself alot😃]**
 
 ## My Skills 🧠
 
@@ -40,8 +39,8 @@ I'm a passionate **[Your Job Title / Developer Role]** with experience in **[tec
 ## Get in Touch 📬
 
 - **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
+- **[LinkedIn]**(https://www.linkedin.com/in/simon-chege-08537423b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app    )
+- **[Twitter]**(@gurudsimon)
 
 
 
